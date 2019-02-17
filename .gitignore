@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+__pycache__
+*.log
+
+
+# CA files
+index.txt
+*.key
+*.pem
+*.crt
+*.pub
+*.csr

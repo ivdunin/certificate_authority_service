@@ -1,0 +1,14 @@
+{
+  "DEBUG": true,
+  "TESTING": true,
+  "HOST": "127.0.0.1",
+  "PORT": 5000,
+  "ROOT_CERT": "/home/user/CA/rootCA.crt",
+  "PRIVATE_KEY": "/home/user/CA/private/rootCA.key",
+  "INDEX_DB": "/home/user/CA/index.txt",
+  "NEW_CERT_DIR": "/home/user/CA/newcert",
+  "MAX_EXPIRY": 30,
+  "LOGGER_NAME": "ca_service_logger",
+  "LOGGER_HANDLER_POLICY": "debug",
+  "SECRET_KEY": "dummykey"
+}
