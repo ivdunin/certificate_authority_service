@@ -1,8 +1,8 @@
 asn1crypto==0.24.0
 cffi==1.11.5
 click==6.7
-cryptography==2.1.4
-Flask==0.12.2
+cryptography==2.5
+Flask==1.0.2
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
